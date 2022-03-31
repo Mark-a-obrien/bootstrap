@@ -1,2 +1,2 @@
 # bootstrap
-Learning bootscrap by building projectds
+Learning bootscrap by building projects
